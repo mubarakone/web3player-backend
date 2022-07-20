@@ -1,2 +1,2 @@
 # `upload-portal`
-# dashboard
+# `main-dashboard`
